@@ -3,17 +3,17 @@ import hero from '../assets/images/hero.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://abhisheksec.com',
     avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'Abhishek Sharma'
     },
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Abhishek Sharma',
+    subtitle: 'Security Engineer',
+    description: 'Security Engineer specializing in AI Security, LLM Red Teaming, and Enterprise Network Defense.',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/dante-preview.jpg', // You can update this later with a personal preview image
+        alt: 'Abhishek Sharma - Security Portfolio'
     },
     headerNavLinks: [
         {
@@ -43,46 +43,38 @@ const siteConfig: SiteConfig = {
             href: '/contact'
         },
         {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/abhisheksec'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/abhisheksec'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'GitHub',
+            href: 'https://github.com/abhisheksec'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        title: 'Securing the Future of AI & Infrastructure',
+        text: "I'm **Abhishek Sharma**, a Security Engineer focused on the intersection of automated threat detection and the emerging frontiers of **AI Safety**.\n\nCurrently, I specialize in **LLM Red Teaming**, identifying vulnerabilities like prompt injection, and hardening enterprise networks. With a background in securing high-scale systems at Amazon, I build automated solutions to defend against modern adversarial tactics.\n\nExplore my [technical write-ups](/blog) or see my latest [security projects](/projects).",
         image: {
             src: hero,
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'Abhishek Sharma - Security Engineer'
         },
         actions: [
             {
-                text: 'Get in Touch',
-                href: '/contact'
+                text: 'View My Focus Areas',
+                href: '/about'
             }
         ]
     },
     subscribe: {
-        enabled: true,
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        enabled: false, // Turned off for now to keep your site clean
+        title: 'Stay Updated',
+        text: 'Get my latest security research and lab write-ups.',
         form: {
             action: '#'
         }
