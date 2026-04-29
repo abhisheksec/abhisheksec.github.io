@@ -4,22 +4,26 @@ description: "Professional background and technical focus areas"
 ---
 
 # Abhishek Sharma
-**Security Engineer | Detection & AI Security Expert**
+### Security Engineer | Detection & AI Security Expert
 
-I am a Security Engineer with 8+ years of experience protecting high-scale environments. My work at **Amazon** and **Deloitte** focuses on the intersection of automated threat detection and **AI Safety**.
+I am a **Security Engineer at Amazon** with 8+ years of experience protecting high-scale environments. My work focuses on the intersection of automated threat detection and **AI Safety**.
 
-###  High-Impact Focus Areas
-* **AI & LLM Security:** Specialized in the OWASP Top 10 for LLMs, defending against prompt injection, and architecting GenAI-driven SOAR workflows to reduce Mean Time to Triage (MTTT).
-* **Detection Engineering:** Building MITRE-based behavioral detection frameworks (UEBA) to identify sophisticated insider threats and PII exfiltration.
-* **Cloud Security Architecture:** Google Professional Cloud Security Engineer with expertise in GCP VPC Service Controls, ITAR compliance, and Terraform (IaC).
+---
 
-###  Technical Stack
-* **Languages:** Python (Automation), JavaScript, SQL, Bash, Regex.
-* **SIEM/Detection:** Splunk, Google Chronicle, QRadar, Cortex XSOAR.
-* **Infrastructure:** AWS, GCP (Certified), Terraform, Docker.
-* **Forensics:** Crowdstrike, SentinelOne, Mandiant Redline, Volatility.
+##  High-Impact Focus Areas
 
-###  Education & Certifications
-* **Master of Engineering in Cybersecurity** | University of Maryland (GPA: 3.7)
-* **Google Professional Cloud Security Engineer**
-* **SANS SEC545** (AI/LLM Security - Candidate)
+###  AI & LLM Security
+* **Red Teaming:** Specialized in the OWASP Top 10 for LLMs, defending against prompt injection.
+* **GenAI Triage Automation:** Architecting SOAR workflows to reduce Mean Time to Triage (MTTT) by 30%.
+* **SANS SEC545:** Currently implementing advanced AI infrastructure security patterns.
+
+###  Cloud & Network Security
+* **GCP Professional Cloud Security Engineer:** Expert in GCP VPC Service Controls and ITAR-compliant Terraform (IaC).
+* **Detection Engineering:** Building MITRE-based behavioral detection frameworks (UEBA) for Insider Threat mitigation.
+
+---
+
+## 🛠️ Technical Stack
+* **Tools:** Splunk, Google Chronicle, Cortex XSOAR, CrowdStrike, Terraform.
+* **Languages:** Python, JavaScript, SQL, Bash.
+* **Certifications:** Google Professional Cloud Security Engineer, Terraform Associate, AWS Cloud Practitioner.
