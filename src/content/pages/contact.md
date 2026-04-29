@@ -1,14 +1,14 @@
 ---
-title: Get in touch
-seo:
-  title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+# Just update the text inside the existing file structure
+title: "Get in Touch"
+description: "Let's discuss AI security, cloud hardening, or detection engineering."
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+If you're looking for a security perspective on GenAI implementation, 
+insider threat mitigation, or cloud architecture, feel free to reach out. 
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+I am always open to discussing new research, speaking opportunities, or technical collaborations.
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+
+**Professional:** [LinkedIn Profile](https://www.linkedin.com/in/abhisheksec)  
+**Code:** [GitHub](https://github.com/abhisheksec)
