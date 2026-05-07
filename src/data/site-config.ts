@@ -9,7 +9,7 @@ const siteConfig: SiteConfig = {
         alt: 'Abhishek Sharma'
     },
     title: 'Abhishek Sharma',
-    subtitle: 'Security Engineer | AI & Detection Engineering',
+    subtitle: 'Detection Engineer @ Amazon | AWS & GCP Cloud Security Expert | AI Safety Researcher',
     description: 'Security Engineer at Amazon specializing in AI/LLM Security, Detection Engineering, and Cloud Hardening.',
     image: {
         src: '/dante-preview.jpg',
