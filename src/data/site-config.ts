@@ -35,7 +35,7 @@ const siteConfig: SiteConfig = {
         text: "I'm **Abhishek Sharma**, a Security Engineer at **Amazon** specializing in Detection Engineering and Insider Threat mitigation. \n\nI am currently bridging the gap between traditional SecOps and the future of AI through **LLM Red Teaming** and **GenAI Triage Automation**. With a Master’s in Cybersecurity and 8+ years of experience across Amazon and Deloitte, I build automated frameworks to defend against complex adversarial TTPs in GCP and AWS environments.",
         image: {
             src: hero,
-            alt: 'Abhishek Sharma sitting at a desk'
+            alt: 'Seattle Kerry Park'
         },
         actions: [
             { text: 'Explore My Research', href: '/blog' },
