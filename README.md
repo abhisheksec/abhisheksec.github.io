@@ -25,7 +25,7 @@ This site serves as a professional portfolio and a technical blog where I docume
 ## 📈 Recent Milestones
 * **May 2026:** Migrated site to GitHub Pages and integrated automated CI/CD.
 * **May 2026:** Initialized "Security for GenAI" blog series.
-* **May 2026:** Custom UI overhaul).
+* **May 2026:** Custom UI overhaul (Avatar alignment and Seattle Hero integration).
 
 ---
 **Connect with me:**
