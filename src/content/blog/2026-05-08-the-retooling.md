@@ -1,32 +1,43 @@
 ---
-layout: post
 title: "The Retooling: Why I’m Spending 100 Days on AI Security"
 date: 2026-05-08
-categories: [Security, AI, SANS]
 ---
 
-I’ve spent the last 8 years in security, most recently deep in the world of Insider Threat at Amazon. If there’s one thing I’ve learned, it’s that we are usually defensive by nature. We build walls around the data we know. 
+# The Retooling
+### *A 100-Day Sprint into the AI Security Frontier*
+
+---
+
+I’ve spent the last eight years in security, most recently focusing on **Insider Threat Mitigation at Amazon**. One lesson stands out: we are traditionally defensive by nature. We build walls around the data we know. 
 
 But the walls are changing. 
 
-With the explosion of LLMs and agentic workflows, the "insider" isn't just a person anymore—it's the model itself, the prompt, and the entire RAG pipeline. The traditional playbooks for detection and response are starting to feel a bit like bringing a knife to a gunfight. 
+With the explosion of LLMs and agentic workflows, the "insider" isn't just a person anymore—it's the model itself, the prompt, and the entire RAG pipeline. The traditional playbooks for detection and response are starting to feel inadequate for the scale of the challenge.
 
 **I’m spending the next 100 days retooling.**
 
-I’m moving my focus toward AI Security Engineering. It’s not just about a career pivot; it’s about staying relevant in an industry that is shifting under our feet. 
+I am shifting my focus toward AI Security Engineering. This isn't just a pivot; it's a necessity for staying relevant as the industry moves toward autonomous intelligence.
 
-### The Plan
-I’m not just reading theory. I’m going hands-on:
+---
 
-* **SANS SEC545:** I’m working through the Applied Generative AI Security curriculum to get a structured grip on model-specific vulnerabilities.
-* **Building:** I’ll be pushing code to GitHub—specifically Python tools for prompt sanitization and automated detection of model abuse.
-* **Foundations:** Doubling down on the GCP and AWS infrastructure that actually powers these models.
+### The Strategic Plan
 
-### Why go public?
-I'm documenting this here for two reasons. First, accountability. It’s easy to let a 100-day goal slide when you have a day job at a place like Amazon. Second, because there isn't enough "real talk" about the technical hurdles of securing AI at scale. 
+I am moving beyond theory to technical execution, focusing on three core pillars:
 
-I’ll be posting my lab notes, the code I break (and hopefully fix), and my thoughts on how we scale trust in an era of hallucinating models. 
+1.  **SANS SEC545 Mastery** Deep-diving into the *Applied Generative AI Security* curriculum to master model-specific vulnerabilities and defense-in-depth for AI infrastructure.
 
-If you're also trying to figure out how to bridge the gap between traditional AppSec and the AI frontier, stick around. 
+2.  **Security Automation (Python)** Building and open-sourcing technical solutions, starting with a **Semantic Sanitizer** and a robust **Prompt Firewall** to intercept adversarial misuse in real-time.
 
-**Next up:** *Trying to build a prompt firewall that actually works.*
+3.  **Cloud-Native Foundations** Hardening the GCP and AWS environments that power these models, focusing on IAM granularity and VPC Service Controls for AI workloads.
+
+---
+
+### Why Public Documentation?
+
+I am documenting this journey here for two reasons: **Accountability** and **Clarity**. 
+
+In a high-pressure role at Amazon, it’s easy to let long-term learning slide. Public documentation ensures consistent execution. Furthermore, there is a lack of "ground-truth" engineering talk regarding AI security at scale. I intend to share my lab notes, the logic behind the code I build, and my reflections on scaling trust.
+
+If you are also navigating the gap between traditional AppSec and the AI frontier, I hope you find this series useful.
+
+**Up Next:** *Architecting a Prompt Firewall: The Logic and the Code.*
