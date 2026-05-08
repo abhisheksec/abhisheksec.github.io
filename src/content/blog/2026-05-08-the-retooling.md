@@ -1,6 +1,7 @@
 ---
 title: "The Retooling: Why I’m Spending 100 Days on AI Security"
-date: 2026-05-08
+publishDate: "2026-05-08"
+description: "A 100-Day Sprint into the AI Security Frontier."
 ---
 
 # The Retooling
@@ -34,7 +35,7 @@ I am moving beyond theory to technical execution, focusing on three core pillars
 
 ### Why Public Documentation?
 
-I am documenting this journey here for two reasons: **Accountability** and **Clarity**.
+I am documenting this journey here for two reasons: **Accountability** and **Clarity**. 
 
 In a high-pressure role at Amazon, it’s easy to let long-term learning slide. Public documentation ensures consistent execution. Furthermore, there is a lack of "ground-truth" engineering talk regarding AI security at scale. I intend to share my lab notes, the logic behind the code I build, and my reflections on scaling trust.
 
